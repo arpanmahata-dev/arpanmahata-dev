@@ -1,4 +1,4 @@
-# Arpan Mahata - MERN Stack Developer
+# Arpan Mahata - Cloud Engineer
 
 ## 👋 Hello, I'm Arpan Mahata! 
 **arpanmahata-dev · he/him**
